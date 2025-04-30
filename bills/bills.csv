@@ -1,2 +1,5 @@
-id,oppose,reason,url,archived_url
-nc2025hb171,Y,anti dei,https://www.ncleg.gov/BillLookUp/2025/h171,https://archive.ph/iy1MD
+id,oppose,reason,source,url,archived_url,status
+nc2025hb171,Y,anti dei,ENC,https://www.ncleg.gov/BillLookUp/2025/h171,https://archive.ph/iy1MD,
+nc2025hb519,Y,Healthcare Minor Consent,ENC,https://www.ncleg.gov/BillLookUp/2025/h519,https://archive.ph/cIyA0,
+nc2025hb560,Y,Anti trans foster care bill,ENC,https://www.ncleg.gov/BillLookUp/2025/h560,https://archive.ph/UIlNX,
+nc2025hb606,Y,Healthcare Civil Action,ENC,https://www.ncleg.gov/BillLookUp/2025/h606,https://archive.ph/NQVA5,
