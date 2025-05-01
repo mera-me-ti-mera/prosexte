@@ -8,7 +8,7 @@ Try to archive as you go
 
 Questionable legislation
 
-### bill2elected
+### bill2elected.csv
 
 Relationship between a bill and those that touched it
 
