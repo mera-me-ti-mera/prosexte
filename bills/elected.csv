@@ -1,70 +1,98 @@
-office,country,province,muni,name,idsrc,party,id,url,archived_url,interest,session
-nc house district 003,United States,NC,,Steve Tyson,ncid,REP,BD19643,https://www.ncleg.gov/Members/Biography/H/774,https://archive.ph/y8ehj,,2025
-nc house district 004,United States,NC,,Jimmy Dixon,ncid,REP,BK4439,https://www.ncleg.gov/Members/Biography/H/613,https://archive.ph/mrj2J,,2025
-nc house district 005,United States,NC,,Bill Ward,ncid,REP,DG32209,https://www.ncleg.gov/Members/Biography/H/816,https://archive.ph/l0P0h,,2025
-nc house district 006,United States,NC,,Joseph Pike,ncid,REP,CL44427,https://www.ncleg.gov/Members/Biography/H/808,https://archive.ph/IPhJA,,2025
-nc house district 007,United States,NC,,Matthew Winslow,ncid,REP,BP33425,https://www.ncleg.gov/Members/Biography/H/776,https://archive.ph/DIjIY,,2025
-nc house district 012,United States,NC,,Chris Humphrey,ncid,REP,CM18120,https://www.ncleg.gov/Members/Biography/H/747,https://archive.ph/7IEsM,MOVED,2025
-nc house district 013,United States,NC,,Celeste C. Cairns,ncid,REP,BE202559,https://www.ncleg.gov/Members/Biography/H/797,https://archive.ph/mdTnF,F,2025
-nc house district 016,United States,NC,,Carson Smith,ncid,REP,DH21074,https://www.ncleg.gov/Members/Biography/H/755,https://archive.ph/a801m,,2025
-nc house district 017,United States,NC,,Frank Iler,ncid,REP,AK54827,https://www.ncleg.gov/Members/Biography/H/598,https://archive.ph/IPhJA,,2025
-nc house district 019,United States,NC,,Charles W. Miller,ncid,REP,AK16601,https://www.ncleg.gov/Members/Biography/H/778,https://archive.ph/SjVqx,Deputy,2025
-nc house district 020,United States,NC,,"Ted Davis, Jr",ncid,REP,DB34076,https://www.ncleg.gov/Members/Biography/H/637,https://archive.ph/AsTwP,,2025
-nc house district 022,United States,NC,,William D. Brisson,ncid,REP,AJ16224,https://www.ncleg.gov/Members/Biography/H/558,https://archive.ph/cHstN,,2025
-nc house district 026,United States,NC,,Donna McDowell White,ncid,REP,CJ11483,https://www.ncleg.gov/Members/Biography/H/728,https://archive.ph/o63zg,F,2025
-nc house district 028,United States,NC,,Larry C. Strickland,ncid,REP,CJ19407,https://www.ncleg.gov/Members/Biography/H/727,https://archive.ph/RLEGa,,2025
-nc house district 043,United States,NC,,Diane Wheatley,ncid,REP,BE54355,https://www.ncleg.gov/Members/Biography/H/785,https://archive.ph/Ugp6r,F,2025
-nc house district 046,United States,NC,,Brenden H. Jones (Republican),ncid,REP,BC41700,https://www.ncleg.gov/Members/Biography/H/723,https://archive.ph/1HQMX,,2025
-nc house district 047,United States,NC,,Jarrod Lowery (Rep),ncid,REP,DR94774,https://www.ncleg.gov/Members/Biography/H/807,https://archive.ph/fYgRm,,2025
-nc house district 051,United States,NC,,John Sauls,ncid,REP,CL14042,https://www.ncleg.gov/Members/Biography/H/393,https://archive.ph/YNj9L,,2025
-nc house district 052,United States,NC,,"Ben T. Moss, Jr",ncid,REP,DP28106,https://www.ncleg.gov/Members/Biography/H/784,https://archive.ph/ISrn6,,2025
-nc house district 053,United States,NC,,"Howard Penny, Jr",ncid,REP,CA14565,https://www.ncleg.gov/Members/Biography/H/768,https://archive.ph/32oGk,,2025
-nc house district 059,United States,NC,,Jerry ‚ÄúAlan‚Äù Branson,ncid,REP,BY21271,https://www.ncleg.gov/Members/Biography/H/821,https://archive.ph/h40NZ,,2025
-nc house district 062,United States,NC,,John M. Blust,ncid,REP,BY17698,https://www.ncleg.gov/Members/Biography/H/234,https://archive.ph/ZRMnn,,2025
-nc house district 064,United States,NC,,Dennis Riddel,ncid,REP,AA59458,https://www.ncleg.gov/Members/Biography/H/665,https://archive.ph/1bnfv,,2025
-nc house district 065,United States,NC,,"A. Reece Pyrtle, Jr",ncid,REP,DS38886,https://www.ncleg.gov/Members/Biography/H/787,https://archive.ph/itpzj,,2025
-nc house district 067,United States,NC,,Cody HuneyCutt,ncid,REP,DZ61911,https://www.ncleg.gov/Members/Biography/H/833,https://archive.ph/o9aAd,,2025
-nc house district 068,United States,NC,,David Willis,ncid,REP,EF101979,https://www.ncleg.gov/Members/Biography/H/779,https://archive.ph/wpGD7,,2025
-nc house district 069,United States,NC,,Dean Arp,ncid,REP,EF30756,https://www.ncleg.gov/Members/Biography/H/640,https://archive.ph/itMQZ,,2025
-nc house district 070,United States,NC,,Brian Biggs (Rep),ncid,REP,DN86351,https://www.ncleg.gov/Members/Biography/H/793,https://archive.ph/SFsBy,,2025
-nc house district 073,United States,NC,,Jonathan L. Almond (Rep),ncid,REP,EF114024,https://www.ncleg.gov/Members/Biography/H/843,https://archive.ph/Ad2Ww,,2025
-nc house district 074,United States,NC,,Jeff Zenger,ncid,REP,BN253849,https://www.ncleg.gov/Members/Biography/H/775,https://archive.ph/L3BOw,,2025
-nc house district 075,United States,NC,,Donny Lambeth,ncid,REP,BN38280,https://www.ncleg.gov/Members/Biography/H/646,https://archive.ph/oYW3j,,2025
-nc house district 076,United States,NC,,Harry Warren,ncid,REP,DT91886,https://www.ncleg.gov/Members/Biography/H/630,https://archive.ph/StO9p,,2025
-nc house district 078,United States,NC,,Neal Jackson (Rep),ncid,REP,CZ88705,https://www.ncleg.gov/Members/Biography/H/804,https://archive.ph/ldlnV,,2025
-nc house district 079,United States,NC,,Keith Kidwell,ncid,REP,AG21226,https://www.ncleg.gov/Members/Biography/H/749,https://archive.ph/lIstM,,2025
-nc house district 080,United States,NC,,Samuel Watford,ncid,REP,BH37375,https://www.ncleg.gov/Members/Biography/H/687,https://archive.ph/ZMseg,,2025
-nc house district 081,United States,NC,,Larry W. Potts,ncid,REP,BH29149,https://www.ncleg.gov/Members/Biography/H/724,https://archive.ph/wuY3p,,2025
-nc house district 082,United States,NC,,Brian Echevarria,ncid,REP,AN139956,https://www.ncleg.gov/Members/Biography/H/828,https://archive.ph/7m5xW,P,2025
-nc house district 083,United States,NC,,"Grant L. Campbell, MD",ncid,REP,CW559335,https://www.ncleg.gov/Members/Biography/H/830,https://archive.ph/iVE4R,,2025
-nc house district 084,United States,NC,,Jeffrey C. McNeely,ncid,REP,CG45244,https://www.ncleg.gov/Members/Biography/H/761,https://archive.ph/pIRfP,,2025
-nc house district 086,United States,NC,,Hugh Blackwell (Rep,ncid,REP,AM10647,https://www.ncleg.gov/Members/Biography/H/580,https://archive.ph/QfD2I,,2025
-nc house district 089,United States,NC,,Mitchell S. Setzer,ncid,REP,AW46152,https://www.ncleg.gov/Members/Biography/H/149,https://archive.ph/a801m,,2025
-nc house district 090,United States,NC,,Sarah Stevens,ncid,REP,EB84736,https://www.ncleg.gov/Members/Biography/H/592,https://archive.ph/ND0UO,F,2025
-nc house district 091,United States,NC,,Kyle Hall,ncid,REP,EA41524,https://www.ncleg.gov/Members/Biography/H/704,https://archive.ph/CEVSK,,2025
-nc house district 093,United States,NC,,Ray Pickett,ncid,REP,EL14932,https://www.ncleg.gov/Members/Biography/H/772,https://archive.ph/KE2k8,,2025
-nc house district 094,United States,NC,,Blair Eddins (Republican),ncid,REP,EH457597,https://www.ncleg.gov/Members/Biography/H/825,https://archive.ph/mW6ut,,2025
-nc house district 095,United States,NC,,Todd Carver,ncid,REP,CG12487,https://www.ncleg.gov/Members/Biography/H/842,https://archive.ph/kQJPw,,2025
-nc house district 097,United States,NC,,Heather H. Rhyne,ncid,REP,CN54308,https://www.ncleg.gov/Members/Biography/H/823,https://archive.ph/Btrwz,F,2025
-nc house district 108,United States,NC,,John A. Torbett,ncid,REP,BR60559,https://www.ncleg.gov/Members/Biography/H/606,https://archive.ph/bSWXH,,2025
-nc house district 109,United States,NC,,Donnie Loftis,ncid,REP,BR74995,https://www.ncleg.gov/Members/Biography/H/788,https://archive.ph/5Uh2E,,2025
-nc house district 110,United States,NC,,Kelly E. Hastings,ncid,REP,BB24114,https://www.ncleg.gov/Members/Biography/H/618,https://archive.ph/OD1bW,,2025
-nc house district 111,United States,NC,,Paul Scott,ncid,REP,EH760180,https://www.ncleg.gov/Members/Biography/H/841,https://archive.ph/Thh1W,,2025
-nc house district 113,United States,NC,,Jake Johnson,ncid,REP,DM30612,https://www.ncleg.gov/Members/Biography/H/762,https://archive.ph/67cj4,,2025
-nc house district 117,United States,NC,,Jennifer Balkcom (Rep),ncid,REP,CC66913,https://www.ncleg.gov/Members/Biography/H/820,https://archive.ph/gnIgf,F,2025
-nc house district 119,United States,NC,,Mike Clampitt,ncid,REP,EC15864,https://www.ncleg.gov/Members/Biography/H/715,https://archive.ph/7y6hL,,2025
-nc senate district 01,United States,NC,,Bobby Hanig,ncid,REP,BF8342,https://www.ncleg.gov/Members/Biography/S/435,https://archive.ph/CIEZH,,2025
-nc senate district 02,United States,NC,,Norman W. Sanderson,ncid,REP,DF14853,https://www.ncleg.gov/Members/Biography/S/375,https://archive.ph/17npj,,2025
-nc senate district 03,United States,NC,,Bob Brinson,ncid,REP,BD151571,https://www.ncleg.gov/Members/Biography/S/448,https://archive.ph/qcIRn,,2025
-nc senate district 04,United States,NC,,Buck Newton,ncid,REP,EP23735,https://www.ncleg.gov/Members/Biography/S/443,https://archive.ph/eb6FE,,2025
-nc senate district 10,United States,NC,,Benton G. Sawrey,ncid,REP,CJ113023,https://www.ncleg.gov/Members/Biography/S/445,https://archive.ph/F40m7,,2025
-nc senate district 11,United States,NC,,Lisa S. Barnes,ncid,REP,DA34419,https://www.ncleg.gov/Members/Biography/S/427,https://archive.ph/iT5Mw,,2025
-nc senate district 12,United States,NC,,Jim Burgin,ncid,REP,CA4215,https://www.ncleg.gov/Members/Biography/S/412,https://archive.ph/rMthL,,2025
-nc senate district 25,United States,NC,,Amy S. Galey,ncid,REP,AA164339,https://www.ncleg.gov/Members/Biography/S/429,https://archive.ph/WknGe,F,2025
-nc senate district 30,United States,NC,,Steve Jarvis,ncid,REP,BH19663,https://www.ncleg.gov/Members/Biography/S/430,https://archive.ph/nvWHh,,2025
-nc senate district 31,United States,NC,,Dana Jones,ncid,REP,BN155739,https://www.ncleg.gov/Members/Biography/S/449,https://archive.ph/LJwiz,F,2025
-nc senate district 37,United States,NC,,Vickie Sawyer,ncid,REP,CG59112,https://www.ncleg.gov/Members/Biography/S/405,https://archive.ph/h99Qb,F,2025
-nc senate district 43,United States,NC,,Brad Overcash,ncid,REP,BH133948,https://www.ncleg.gov/Members/Biography/S/444,https://archive.ph/WHttB,,2025
-nc senate district 46,United States,NC,,Warren Daniel,ncid,REP,AM42379,https://www.ncleg.gov/Members/Biography/S/295,https://archive.ph/NnDrY,,2025
-nc senate district 47,United States,NC,,Ralph Hise,ncid,REP,CX11011,https://www.ncleg.gov/Members/Biography/S/298,https://archive.ph/Clzck,,2025
-nc senate district 48,United States,NC,,Timothy D. Moffitt,ncid,REP,AL41786,https://www.ncleg.gov/Members/Biography/S/438,https://archive.ph/6TtAN,,2025
+office,country,province,muni,name,idsrc,party,id,url,archived_url,interest,election
+nc house district 003,United States,NC,,Steve Tyson,ncid,REP,BD19643,https://www.ncleg.gov/Members/Biography/H/774,https://archive.ph/y8ehj,,2024
+nc house district 004,United States,NC,,Jimmy Dixon,ncid,REP,BK4439,https://www.ncleg.gov/Members/Biography/H/613,https://archive.ph/mrj2J,,2024
+nc house district 005,United States,NC,,Bill Ward,ncid,REP,DG32209,https://www.ncleg.gov/Members/Biography/H/816,https://archive.ph/l0P0h,,2024
+nc house district 006,United States,NC,,Joseph Pike,ncid,REP,CL44427,https://www.ncleg.gov/Members/Biography/H/808,https://archive.ph/IPhJA,,2024
+nc house district 007,United States,NC,,Matthew Winslow,ncid,REP,BP33425,https://www.ncleg.gov/Members/Biography/H/776,https://archive.ph/DIjIY,,2024
+nc house district 012,United States,NC,,Chris Humphrey,ncid,REP,CM18120,https://www.ncleg.gov/Members/Biography/H/747,https://archive.ph/7IEsM,MOVED,2024
+nc house district 013,United States,NC,,Celeste C. Cairns,ncid,REP,BE202559,https://www.ncleg.gov/Members/Biography/H/797,https://archive.ph/mdTnF,F,2024
+nc house district 016,United States,NC,,Carson Smith,ncid,REP,DH21074,https://www.ncleg.gov/Members/Biography/H/755,https://archive.ph/a801m,,2024
+nc house district 017,United States,NC,,Frank Iler,ncid,REP,AK54827,https://www.ncleg.gov/Members/Biography/H/598,https://archive.ph/IPhJA,,2024
+nc house district 019,United States,NC,,Charles W. Miller,ncid,REP,AK16601,https://www.ncleg.gov/Members/Biography/H/778,https://archive.ph/SjVqx,Deputy,2024
+nc house district 020,United States,NC,,"Ted Davis, Jr",ncid,REP,DB34076,https://www.ncleg.gov/Members/Biography/H/637,https://archive.ph/AsTwP,,2024
+nc house district 022,United States,NC,,William D. Brisson,ncid,REP,AJ16224,https://www.ncleg.gov/Members/Biography/H/558,https://archive.ph/cHstN,,2024
+nc house district 026,United States,NC,,Donna McDowell White,ncid,REP,CJ11483,https://www.ncleg.gov/Members/Biography/H/728,https://archive.ph/o63zg,F,2024
+nc house district 028,United States,NC,,Larry C. Strickland,ncid,REP,CJ19407,https://www.ncleg.gov/Members/Biography/H/727,https://archive.ph/RLEGa,,2024
+nc house district 043,United States,NC,,Diane Wheatley,ncid,REP,BE54355,https://www.ncleg.gov/Members/Biography/H/785,https://archive.ph/Ugp6r,F,2024
+nc house district 046,United States,NC,,Brenden H. Jones (Republican),ncid,REP,BC41700,https://www.ncleg.gov/Members/Biography/H/723,https://archive.ph/1HQMX,,2024
+nc house district 047,United States,NC,,Jarrod Lowery (Rep),ncid,REP,DR94774,https://www.ncleg.gov/Members/Biography/H/807,https://archive.ph/fYgRm,,2024
+nc house district 051,United States,NC,,John Sauls,ncid,REP,CL14042,https://www.ncleg.gov/Members/Biography/H/393,https://archive.ph/YNj9L,,2024
+nc house district 052,United States,NC,,"Ben T. Moss, Jr",ncid,REP,DP28106,https://www.ncleg.gov/Members/Biography/H/784,https://archive.ph/ISrn6,,2024
+nc house district 053,United States,NC,,"Howard Penny, Jr",ncid,REP,CA14565,https://www.ncleg.gov/Members/Biography/H/768,https://archive.ph/32oGk,,2024
+nc house district 059,United States,NC,,Jerry ìAlanî Branson,ncid,REP,BY21271,https://www.ncleg.gov/Members/Biography/H/821,https://archive.ph/h40NZ,,2024
+nc house district 062,United States,NC,,John M. Blust,ncid,REP,BY17698,https://www.ncleg.gov/Members/Biography/H/234,https://archive.ph/ZRMnn,,2024
+nc house district 064,United States,NC,,Dennis Riddel,ncid,REP,AA59458,https://www.ncleg.gov/Members/Biography/H/665,https://archive.ph/1bnfv,,2024
+nc house district 065,United States,NC,,"A. Reece Pyrtle, Jr",ncid,REP,DS38886,https://www.ncleg.gov/Members/Biography/H/787,https://archive.ph/itpzj,,2024
+nc house district 067,United States,NC,,Cody HuneyCutt,ncid,REP,DZ61911,https://www.ncleg.gov/Members/Biography/H/833,https://archive.ph/o9aAd,,2024
+nc house district 068,United States,NC,,David Willis,ncid,REP,EF101979,https://www.ncleg.gov/Members/Biography/H/779,https://archive.ph/wpGD7,,2024
+nc house district 069,United States,NC,,Dean Arp,ncid,REP,EF30756,https://www.ncleg.gov/Members/Biography/H/640,https://archive.ph/itMQZ,,2024
+nc house district 070,United States,NC,,Brian Biggs (Rep),ncid,REP,DN86351,https://www.ncleg.gov/Members/Biography/H/793,https://archive.ph/SFsBy,,2024
+nc house district 073,United States,NC,,Jonathan L. Almond (Rep),ncid,REP,EF114024,https://www.ncleg.gov/Members/Biography/H/843,https://archive.ph/Ad2Ww,,2024
+nc house district 074,United States,NC,,Jeff Zenger,ncid,REP,BN253849,https://www.ncleg.gov/Members/Biography/H/775,https://archive.ph/L3BOw,,2024
+nc house district 075,United States,NC,,Donny Lambeth,ncid,REP,BN38280,https://www.ncleg.gov/Members/Biography/H/646,https://archive.ph/oYW3j,,2024
+nc house district 076,United States,NC,,Harry Warren,ncid,REP,DT91886,https://www.ncleg.gov/Members/Biography/H/630,https://archive.ph/StO9p,,2024
+nc house district 078,United States,NC,,Neal Jackson (Rep),ncid,REP,CZ88705,https://www.ncleg.gov/Members/Biography/H/804,https://archive.ph/ldlnV,,2024
+nc house district 079,United States,NC,,Keith Kidwell,ncid,REP,AG21226,https://www.ncleg.gov/Members/Biography/H/749,https://archive.ph/lIstM,,2024
+nc house district 080,United States,NC,,Samuel Watford,ncid,REP,BH37375,https://www.ncleg.gov/Members/Biography/H/687,https://archive.ph/ZMseg,,2024
+nc house district 081,United States,NC,,Larry W. Potts,ncid,REP,BH29149,https://www.ncleg.gov/Members/Biography/H/724,https://archive.ph/wuY3p,,2024
+nc house district 082,United States,NC,,Brian Echevarria,ncid,REP,AN139956,https://www.ncleg.gov/Members/Biography/H/828,https://archive.ph/7m5xW,P,2024
+nc house district 083,United States,NC,,"Grant L. Campbell, MD",ncid,REP,CW559335,https://www.ncleg.gov/Members/Biography/H/830,https://archive.ph/iVE4R,,2024
+nc house district 084,United States,NC,,Jeffrey C. McNeely,ncid,REP,CG45244,https://www.ncleg.gov/Members/Biography/H/761,https://archive.ph/pIRfP,,2024
+nc house district 086,United States,NC,,Hugh Blackwell (Rep,ncid,REP,AM10647,https://www.ncleg.gov/Members/Biography/H/580,https://archive.ph/QfD2I,,2024
+nc house district 089,United States,NC,,Mitchell S. Setzer,ncid,REP,AW46152,https://www.ncleg.gov/Members/Biography/H/149,https://archive.ph/a801m,,2024
+nc house district 090,United States,NC,,Sarah Stevens,ncid,REP,EB84736,https://www.ncleg.gov/Members/Biography/H/592,https://archive.ph/ND0UO,F,2024
+nc house district 091,United States,NC,,Kyle Hall,ncid,REP,EA41524,https://www.ncleg.gov/Members/Biography/H/704,https://archive.ph/CEVSK,,2024
+nc house district 093,United States,NC,,Ray Pickett,ncid,REP,EL14932,https://www.ncleg.gov/Members/Biography/H/772,https://archive.ph/KE2k8,,2024
+nc house district 094,United States,NC,,Blair Eddins (Republican),ncid,REP,EH457597,https://www.ncleg.gov/Members/Biography/H/825,https://archive.ph/mW6ut,,2024
+nc house district 095,United States,NC,,Todd Carver,ncid,REP,CG12487,https://www.ncleg.gov/Members/Biography/H/842,https://archive.ph/kQJPw,,2024
+nc house district 097,United States,NC,,Heather H. Rhyne,ncid,REP,CN54308,https://www.ncleg.gov/Members/Biography/H/823,https://archive.ph/Btrwz,F,2024
+nc house district 108,United States,NC,,John A. Torbett,ncid,REP,BR60559,https://www.ncleg.gov/Members/Biography/H/606,https://archive.ph/bSWXH,,2024
+nc house district 109,United States,NC,,Donnie Loftis,ncid,REP,BR74995,https://www.ncleg.gov/Members/Biography/H/788,https://archive.ph/5Uh2E,,2024
+nc house district 110,United States,NC,,Kelly E. Hastings,ncid,REP,BB24114,https://www.ncleg.gov/Members/Biography/H/618,https://archive.ph/OD1bW,,2024
+nc house district 111,United States,NC,,Paul Scott,ncid,REP,EH760180,https://www.ncleg.gov/Members/Biography/H/841,https://archive.ph/Thh1W,,2024
+nc house district 113,United States,NC,,Jake Johnson,ncid,REP,DM30612,https://www.ncleg.gov/Members/Biography/H/762,https://archive.ph/67cj4,,2024
+nc house district 117,United States,NC,,Jennifer Balkcom (Rep),ncid,REP,CC66913,https://www.ncleg.gov/Members/Biography/H/820,https://archive.ph/gnIgf,F,2024
+nc house district 119,United States,NC,,Mike Clampitt,ncid,REP,EC15864,https://www.ncleg.gov/Members/Biography/H/715,https://archive.ph/7y6hL,,2024
+nc senate district 01,United States,NC,,Bobby Hanig,ncid,REP,BF8342,https://www.ncleg.gov/Members/Biography/S/435,https://archive.ph/CIEZH,,2024
+nc senate district 02,United States,NC,,Norman W. Sanderson,ncid,REP,DF14853,https://www.ncleg.gov/Members/Biography/S/375,https://archive.ph/17npj,,2024
+nc senate district 03,United States,NC,,Bob Brinson,ncid,REP,BD151571,https://www.ncleg.gov/Members/Biography/S/448,https://archive.ph/qcIRn,,2024
+nc senate district 04,United States,NC,,Buck Newton,ncid,REP,EP23735,https://www.ncleg.gov/Members/Biography/S/443,https://archive.ph/eb6FE,,2024
+nc senate district 10,United States,NC,,Benton G. Sawrey,ncid,REP,CJ113023,https://www.ncleg.gov/Members/Biography/S/445,https://archive.ph/F40m7,,2024
+nc senate district 11,United States,NC,,Lisa S. Barnes,ncid,REP,DA34419,https://www.ncleg.gov/Members/Biography/S/427,https://archive.ph/iT5Mw,,2024
+nc senate district 12,United States,NC,,Jim Burgin,ncid,REP,CA4215,https://www.ncleg.gov/Members/Biography/S/412,https://archive.ph/rMthL,,2024
+nc senate district 25,United States,NC,,Amy S. Galey,ncid,REP,AA164339,https://www.ncleg.gov/Members/Biography/S/429,https://archive.ph/WknGe,F,2024
+nc senate district 30,United States,NC,,Steve Jarvis,ncid,REP,BH19663,https://www.ncleg.gov/Members/Biography/S/430,https://archive.ph/nvWHh,,2024
+nc senate district 31,United States,NC,,Dana Jones,ncid,REP,BN155739,https://www.ncleg.gov/Members/Biography/S/449,https://archive.ph/LJwiz,F,2024
+nc senate district 37,United States,NC,,Vickie Sawyer,ncid,REP,CG59112,https://www.ncleg.gov/Members/Biography/S/405,https://archive.ph/h99Qb,F,2024
+nc senate district 43,United States,NC,,Brad Overcash,ncid,REP,BH133948,https://www.ncleg.gov/Members/Biography/S/444,https://archive.ph/WHttB,,2024
+nc senate district 46,United States,NC,,Warren Daniel,ncid,REP,AM42379,https://www.ncleg.gov/Members/Biography/S/295,https://archive.ph/NnDrY,,2024
+nc senate district 47,United States,NC,,Ralph Hise,ncid,REP,CX11011,https://www.ncleg.gov/Members/Biography/S/298,https://archive.ph/Clzck,,2024
+nc senate district 48,United States,NC,,Timothy D. Moffitt,ncid,REP,AL41786,https://www.ncleg.gov/Members/Biography/S/438,https://archive.ph/6TtAN,,2024
+town of zebulon mayor,United States,NC,Zebulon,Glen L. York,ncid,DEM,EH662187,mailto:gyork@townofzebulon.org,,,2021
+town of zebulon mayor pro tem,United States,NC,Zebulon,Jessica Harrison,ncid,DEM,CJ151998,mailto:jharrison@townofzebulon.org,,,2023
+town of zebulon commissioner,United States,NC,Zebulon,Shannon Baxter,ncid,DEM,EH752318,mailto:sbaxter@townofzebulon.org,,,2023
+town of zebulon commissioner,United States,NC,Zebulon,Beverly Clark,ncid,DEM,EH43953,mailto:bclark@townofzebulon.org,,,2021
+town of zebulon commissioner,United States,NC,Zebulon,Amber Davis,ncid,DEM,EH917325,mailto:adavis@townofzebulon.org,,,2023
+town of zebulon commissioner,United States,NC,Zebulon,Quentin Miles,ncid,UNA,EH1318301,mailto:qmiles@townofzebulon.org,,,2021
+,,,,,,,,,,,
+town of rolesville commissioner,,,,Dan Alston,ncid,UNA,CA106869,mailto:dan.alston@rolesville.nc.gov,,,2021
+town of rolesville mayor pro tem,,,,April Sneed,ncid,DEM,EH778336,april.sneed@rolesville.nc.gov,,,2021
+town of rolesville commissioner,,,,Paul Vilga,ncid,UNA,EH855142,paul.vilga@rolesville.nc.gov,,,2021
+town of rolesville mayor pro tem,,,,Ronnie Currin,ncid,REP,EH92488,ron.currin@rolesville.nc.gov,,,2023
+town of rolesville commissioner,,,,Lenwood Long,ncid,DEM,EH219970,mailto:lenwood.long@rolesville.nc.gov,,,2023
+town of rolesville commissioner,,,,Michael Paul,ncid,UNA,EH743436,mailto:michael.paul@rolesville.nc.gov,,,2023
+,,,,,,,,,,,2021
+town of holly springs mayor,,,,Sean Mayefskie,ncid,REP,EH419530,mailto:sean.mayefskie@hollyspringsnc.gov,,,2021
+town of holly springs mayor pro tem,,,,Daniel H. Berry,ncid,REP,EH925048,mailto:dan.berry@hollyspringsnc.gov,,,2021
+town of holly springs town council,,,,Chris Deshazor,ncid,DEM,EH731329,mailto:chris.deshazor@hollyspringsnc.gov,,,2023
+town of holly springs town council,,,,Annie Drees,ncid,DEM,EH1157493,mailto:annie.drees@hollyspringsnc.gov,,,2023
+town of holly springs town council,,,,Timothy Forrest,ncid,REP,CW535461,mailto:timothy.forrest@hollyspringsnc.gov,,,2021
+town of holly springs town council,,,,Danielle Hewetson,ncid,REP,EH1106693,mailto:danielle.hewetson@hollyspringsnc.gov,,,2023
+,,,,,,,,,,,
+town of fuquay varina mayor,,,,Blake Massengill,ncid,REP,EH537328,https://www.fuquay-varina.org/515/Mayor-Blake-Massengill,https://archive.ph/9Jk8D,,2023
+town of fuquay varina mayor pro tem,,,,Marilyn Gardner,ncid,DEM,EH51402,https://www.fuquay-varina.org/518/Commissioner-Marilyn-Gardner,https://archive.ph/i5wLM,,2023
+town of fuquay varina commissioner,,,,William H. (Bill) Harris,ncid,DEM,EH19904,https://www.fuquay-varina.org/519/Commissioner-Bill-Harris,https://archive.ph/tECGl,,2023
+town of fuquay varina ,,,,Bryan Haynes,ncid,DEM,EH557342,https://www.fuquay-varina.org/1418/Commissioner-Bryan-Haynes,https://archive.ph/7Aua3,,2021
+town of fuquay varina ,,,,Charlie Adcock,ncid,REP,EH175493,https://www.fuquay-varina.org/1638/Charlie-Adcock,https://archive.ph/mVGg6,,2023
+town of fuquay varina ,,,,Jason Wunsch,ncid,UNA,CA65246,https://www.fuquay-varina.org/520/Commissioner-Jason-Wunsch,https://archive.ph/Iu4Yd,,2023
+town of fuquay varina clerk,,,,Teresa Wilder,ncid,REP,EH149006,https://www.fuquay-varina.org/Directory.aspx?EID=7,https://archive.ph/qs6H4,,NA
