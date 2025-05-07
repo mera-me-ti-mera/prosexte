@@ -11,15 +11,18 @@ nc house district 017,United States,NC,,Frank Iler,ncid,REP,AK54827,https://www.
 nc house district 019,United States,NC,,Charles W. Miller,ncid,REP,AK16601,https://www.ncleg.gov/Members/Biography/H/778,https://archive.ph/SjVqx,Deputy,2024
 nc house district 020,United States,NC,,"Ted Davis, Jr",ncid,REP,DB34076,https://www.ncleg.gov/Members/Biography/H/637,https://archive.ph/AsTwP,,2024
 nc house district 022,United States,NC,,William D. Brisson,ncid,REP,AJ16224,https://www.ncleg.gov/Members/Biography/H/558,https://archive.ph/cHstN,,2024
+nc house district 024,,,,Dante Pittman,ncid,DEM,EP93703,https://www.ncleg.gov/Members/Biography/H/839,https://archive.ph/EtCAu,hb606,2024
 nc house district 026,United States,NC,,Donna McDowell White,ncid,REP,CJ11483,https://www.ncleg.gov/Members/Biography/H/728,https://archive.ph/o63zg,F,2024
 nc house district 028,United States,NC,,Larry C. Strickland,ncid,REP,CJ19407,https://www.ncleg.gov/Members/Biography/H/727,https://archive.ph/RLEGa,,2024
 nc house district 043,United States,NC,,Diane Wheatley,ncid,REP,BE54355,https://www.ncleg.gov/Members/Biography/H/785,https://archive.ph/Ugp6r,F,2024
+nc house district 044,,,,Charles Smith,ncid,DEM,BE323563,https://www.ncleg.gov/Members/Biography/H/813,https://archive.ph/U1IXX,hb606,2024
 nc house district 046,United States,NC,,Brenden H. Jones (Republican),ncid,REP,BC41700,https://www.ncleg.gov/Members/Biography/H/723,https://archive.ph/1HQMX,,2024
 nc house district 047,United States,NC,,Jarrod Lowery (Rep),ncid,REP,DR94774,https://www.ncleg.gov/Members/Biography/H/807,https://archive.ph/fYgRm,,2024
+nc house district 048,,,,Garland E. Pierce,ncid,DEM,DY27402,https://www.ncleg.gov/Members/Biography/H/497,https://archive.ph/7R9DJ,hb606,2024
 nc house district 051,United States,NC,,John Sauls,ncid,REP,CL14042,https://www.ncleg.gov/Members/Biography/H/393,https://archive.ph/YNj9L,,2024
 nc house district 052,United States,NC,,"Ben T. Moss, Jr",ncid,REP,DP28106,https://www.ncleg.gov/Members/Biography/H/784,https://archive.ph/ISrn6,,2024
 nc house district 053,United States,NC,,"Howard Penny, Jr",ncid,REP,CA14565,https://www.ncleg.gov/Members/Biography/H/768,https://archive.ph/32oGk,,2024
-nc house district 059,United States,NC,,Jerry “Alan” Branson,ncid,REP,BY21271,https://www.ncleg.gov/Members/Biography/H/821,https://archive.ph/h40NZ,,2024
+nc house district 059,United States,NC,,Jerry ï¿½Alanï¿½ Branson,ncid,REP,BY21271,https://www.ncleg.gov/Members/Biography/H/821,https://archive.ph/h40NZ,,2024
 nc house district 062,United States,NC,,John M. Blust,ncid,REP,BY17698,https://www.ncleg.gov/Members/Biography/H/234,https://archive.ph/ZRMnn,,2024
 nc house district 064,United States,NC,,Dennis Riddel,ncid,REP,AA59458,https://www.ncleg.gov/Members/Biography/H/665,https://archive.ph/1bnfv,,2024
 nc house district 065,United States,NC,,"A. Reece Pyrtle, Jr",ncid,REP,DS38886,https://www.ncleg.gov/Members/Biography/H/787,https://archive.ph/itpzj,,2024
@@ -68,31 +71,30 @@ nc senate district 43,United States,NC,,Brad Overcash,ncid,REP,BH133948,https://
 nc senate district 46,United States,NC,,Warren Daniel,ncid,REP,AM42379,https://www.ncleg.gov/Members/Biography/S/295,https://archive.ph/NnDrY,,2024
 nc senate district 47,United States,NC,,Ralph Hise,ncid,REP,CX11011,https://www.ncleg.gov/Members/Biography/S/298,https://archive.ph/Clzck,,2024
 nc senate district 48,United States,NC,,Timothy D. Moffitt,ncid,REP,AL41786,https://www.ncleg.gov/Members/Biography/S/438,https://archive.ph/6TtAN,,2024
-town of zebulon mayor,United States,NC,Zebulon,Glen L. York,ncid,DEM,EH662187,mailto:gyork@townofzebulon.org,,,2021
-town of zebulon mayor pro tem,United States,NC,Zebulon,Jessica Harrison,ncid,DEM,CJ151998,mailto:jharrison@townofzebulon.org,,,2023
-town of zebulon commissioner,United States,NC,Zebulon,Shannon Baxter,ncid,DEM,EH752318,mailto:sbaxter@townofzebulon.org,,,2023
-town of zebulon commissioner,United States,NC,Zebulon,Beverly Clark,ncid,DEM,EH43953,mailto:bclark@townofzebulon.org,,,2021
-town of zebulon commissioner,United States,NC,Zebulon,Amber Davis,ncid,DEM,EH917325,mailto:adavis@townofzebulon.org,,,2023
-town of zebulon commissioner,United States,NC,Zebulon,Quentin Miles,ncid,UNA,EH1318301,mailto:qmiles@townofzebulon.org,,,2021
-,,,,,,,,,,,
-town of rolesville commissioner,,,,Dan Alston,ncid,UNA,CA106869,mailto:dan.alston@rolesville.nc.gov,,,2021
-town of rolesville mayor pro tem,,,,April Sneed,ncid,DEM,EH778336,april.sneed@rolesville.nc.gov,,,2021
-town of rolesville commissioner,,,,Paul Vilga,ncid,UNA,EH855142,paul.vilga@rolesville.nc.gov,,,2021
-town of rolesville mayor pro tem,,,,Ronnie Currin,ncid,REP,EH92488,ron.currin@rolesville.nc.gov,,,2023
-town of rolesville commissioner,,,,Lenwood Long,ncid,DEM,EH219970,mailto:lenwood.long@rolesville.nc.gov,,,2023
-town of rolesville commissioner,,,,Michael Paul,ncid,UNA,EH743436,mailto:michael.paul@rolesville.nc.gov,,,2023
-,,,,,,,,,,,2021
-town of holly springs mayor,,,,Sean Mayefskie,ncid,REP,EH419530,mailto:sean.mayefskie@hollyspringsnc.gov,,,2021
-town of holly springs mayor pro tem,,,,Daniel H. Berry,ncid,REP,EH925048,mailto:dan.berry@hollyspringsnc.gov,,,2021
-town of holly springs town council,,,,Chris Deshazor,ncid,DEM,EH731329,mailto:chris.deshazor@hollyspringsnc.gov,,,2023
-town of holly springs town council,,,,Annie Drees,ncid,DEM,EH1157493,mailto:annie.drees@hollyspringsnc.gov,,,2023
-town of holly springs town council,,,,Timothy Forrest,ncid,REP,CW535461,mailto:timothy.forrest@hollyspringsnc.gov,,,2021
-town of holly springs town council,,,,Danielle Hewetson,ncid,REP,EH1106693,mailto:danielle.hewetson@hollyspringsnc.gov,,,2023
-,,,,,,,,,,,
-town of fuquay varina mayor,,,,Blake Massengill,ncid,REP,EH537328,https://www.fuquay-varina.org/515/Mayor-Blake-Massengill,https://archive.ph/9Jk8D,,2023
-town of fuquay varina mayor pro tem,,,,Marilyn Gardner,ncid,DEM,EH51402,https://www.fuquay-varina.org/518/Commissioner-Marilyn-Gardner,https://archive.ph/i5wLM,,2023
-town of fuquay varina commissioner,,,,William H. (Bill) Harris,ncid,DEM,EH19904,https://www.fuquay-varina.org/519/Commissioner-Bill-Harris,https://archive.ph/tECGl,,2023
 town of fuquay varina ,,,,Bryan Haynes,ncid,DEM,EH557342,https://www.fuquay-varina.org/1418/Commissioner-Bryan-Haynes,https://archive.ph/7Aua3,,2021
 town of fuquay varina ,,,,Charlie Adcock,ncid,REP,EH175493,https://www.fuquay-varina.org/1638/Charlie-Adcock,https://archive.ph/mVGg6,,2023
 town of fuquay varina ,,,,Jason Wunsch,ncid,UNA,CA65246,https://www.fuquay-varina.org/520/Commissioner-Jason-Wunsch,https://archive.ph/Iu4Yd,,2023
 town of fuquay varina clerk,,,,Teresa Wilder,ncid,REP,EH149006,https://www.fuquay-varina.org/Directory.aspx?EID=7,https://archive.ph/qs6H4,,NA
+town of fuquay varina commissioner,,,,William H. (Bill) Harris,ncid,DEM,EH19904,https://www.fuquay-varina.org/519/Commissioner-Bill-Harris,https://archive.ph/tECGl,,2023
+town of fuquay varina mayor,,,,Blake Massengill,ncid,REP,EH537328,https://www.fuquay-varina.org/515/Mayor-Blake-Massengill,https://archive.ph/9Jk8D,,2023
+town of fuquay varina mayor pro tem,,,,Marilyn Gardner,ncid,DEM,EH51402,https://www.fuquay-varina.org/518/Commissioner-Marilyn-Gardner,https://archive.ph/i5wLM,,2023
+town of holly springs mayor,,,,Sean Mayefskie,ncid,REP,EH419530,mailto:sean.mayefskie@hollyspringsnc.gov,,,2021
+town of holly springs mayor pro tem,,,,Daniel H. Berry,ncid,REP,EH925048,mailto:dan.berry@hollyspringsnc.gov,,,2021
+town of holly springs town council,,,,Annie Drees,ncid,DEM,EH1157493,mailto:annie.drees@hollyspringsnc.gov,,,2023
+town of holly springs town council,,,,Chris Deshazor,ncid,DEM,EH731329,mailto:chris.deshazor@hollyspringsnc.gov,,,2023
+town of holly springs town council,,,,Danielle Hewetson,ncid,REP,EH1106693,mailto:danielle.hewetson@hollyspringsnc.gov,,,2023
+town of holly springs town council,,,,Timothy Forrest,ncid,REP,CW535461,mailto:timothy.forrest@hollyspringsnc.gov,,,2021
+town of rolesville commissioner,,,,Dan Alston,ncid,UNA,CA106869,mailto:dan.alston@rolesville.nc.gov,,,2021
+town of rolesville commissioner,,,,Lenwood Long,ncid,DEM,EH219970,mailto:lenwood.long@rolesville.nc.gov,,,2023
+town of rolesville commissioner,,,,Michael Paul,ncid,UNA,EH743436,mailto:michael.paul@rolesville.nc.gov,,,2023
+town of rolesville commissioner,,,,Paul Vilga,ncid,UNA,EH855142,paul.vilga@rolesville.nc.gov,,,2021
+town of rolesville mayor pro tem,,,,April Sneed,ncid,DEM,EH778336,april.sneed@rolesville.nc.gov,,,2021
+town of rolesville mayor pro tem,,,,Ronnie Currin,ncid,REP,EH92488,ron.currin@rolesville.nc.gov,,,2023
+town of zebulon commissioner,United States,NC,Zebulon,Amber Davis,ncid,DEM,EH917325,mailto:adavis@townofzebulon.org,,,2023
+town of zebulon commissioner,United States,NC,Zebulon,Beverly Clark,ncid,DEM,EH43953,mailto:bclark@townofzebulon.org,,,2021
+town of zebulon commissioner,United States,NC,Zebulon,Quentin Miles,ncid,UNA,EH1318301,mailto:qmiles@townofzebulon.org,,,2021
+town of zebulon commissioner,United States,NC,Zebulon,Shannon Baxter,ncid,DEM,EH752318,mailto:sbaxter@townofzebulon.org,,,2023
+town of zebulon mayor,United States,NC,Zebulon,Glen L. York,ncid,DEM,EH662187,mailto:gyork@townofzebulon.org,,,2021
+town of zebulon mayor pro tem,United States,NC,Zebulon,Jessica Harrison,ncid,DEM,CJ151998,mailto:jharrison@townofzebulon.org,,,2023
+,,,,,,,,,,,
+,,,,,,,,,,,2021
